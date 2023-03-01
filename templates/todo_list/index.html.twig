@@ -1,0 +1,41 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}TodoList index{% endblock %}
+
+{% block body %}
+    <h1>TodoList index</h1>
+
+    <table class="table" >
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Asignatura</th>
+                <th>Turno</th>
+                <th>Tiempo</th>
+                <th>Observarciones</th>
+                <th>actions</th>
+            </tr>
+        </thead>
+        <tbody>
+        {% for todo_list in todo_lists %}
+            <tr>
+                <td>{{ todo_list.id }}</td>
+                <td>{{ todo_list.Asignatura }}</td>
+                <td>{{ todo_list.Turno }}</td>
+                <td>{{ todo_list.Tiempo ? todo_list.Tiempo|date('Y-m-d H:i:s') : '' }}</td>
+                <td>{{ todo_list.Observarciones }}</td>
+                <td>
+                    <a href="{{ path('app_todo_list_show', {'id': todo_list.id}) }}">show</a>
+                    <a href="{{ path('app_todo_list_edit', {'id': todo_list.id}) }}">edit</a>
+                </td>
+            </tr>
+        {% else %}
+            <tr>
+                <td colspan="6">no records found</td>
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+
+    <a href="{{ path('app_todo_list_new') }}">Create new</a>
+{% endblock %}
