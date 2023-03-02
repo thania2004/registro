@@ -9,6 +9,7 @@ use Symfony\Component\OptionsResolver\OptionsResolver;
 use Symfony\Component\Form\Extension\Core\Type\TextType;
 use Symfony\Component\Form\Extension\Core\Type\DateTimeType;
 
+
 class TodoListType extends AbstractType
 {
     public function buildForm(FormBuilderInterface $builder, array $options): void
@@ -27,9 +28,7 @@ class TodoListType extends AbstractType
                 'attr' => ['class' => 'observations-input']
             ])
 
-            ->add('Prioridades', TextType::class, [
-                'attr' => ['class' => 'priorities-input']
-            ])
+            ->add('Prioridades')
         ;
     }
 

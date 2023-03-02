@@ -1,7 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;1,100&display=swap');
+
 body{
     width: 100%;
     padding: 100px;
-    background-color: rgb(205, 158, 248);
+   /* background-color: rgb(205, 158, 248);*/
     justify-content: center;
     justify-items: center;
 }
@@ -18,43 +20,59 @@ body{
 
 
 h1{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-weight: 900;
     font-display: fallback;
     font-stretch: 100%;
     transition: cubic-bezier(2, 0.82, 0.165, 1);
-   
+    color: rgb(144, 10, 239);
     justify-content: center;
     justify-items: center;
-
+    margin-left: 400px;
     
 }
 
 
 
 .required{
-    color: purple;
-    font-weight: 700;
-    font-family: 'Times New Roman', Times, serif;
+    color: rgb(97, 12, 245);
+    font-weight: 900;
+    font-family:  'Poppins', sans-serif;
     transition: cubic-bezier(0.755, 0.05, 0.855, 0.06);
     cursor: pointer;
-   
+    font-size: larger;
+    margin-left: 360px;
+    margin-right: 10px;
+    display: block;
+    
 }
 
 .required:hover{
     color:rgb(236, 7, 167);
-    font-weight: 700;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 900;
+    font-family:  'Poppins', sans-serif;
     transition: cubic-bezier(0.075, 0.82, 0.165, 1);
      background-color: gold;
 }
 
 .materia{
-    border: 3px solid purple;
+    outline: none;
+    border: 4px solid rgb(153, 7, 206);
     margin: 20px;
+    font-family:  'Poppins', sans-serif;
  box-shadow: 10px 5px 5px rgb(187, 34, 226);
  border-radius: 4px;
  cursor: pointer;
+  width: 350px;
+    height:40px;
+    margin-left: 370px;
+    display: inline-block;
+}
+
+#todo_list{
+    background-color: gray;
+    margin-left: 300px;
+    margin-right: 300px;
 }
 
 /*
@@ -72,61 +90,107 @@ h1{
 
 
 .horario{
-   
+   outline: none;
     text-align: center;
     max-width: 250px;
     padding-top: 10px;
-     margin: 20px;
+    margin-bottom: 25px;
+     margin-left: 370px;
      font-weight: 700;
-     box-shadow: 10px 5px 5px rgb(187, 34, 226);
-     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     font-family:  'Poppins', sans-serif;
+      width: 350px;
+    height: 40px;
     
 }
 
 
 
 .turn{
-    border: 3px solid purple;
+    outline: none;
+    border: 4px solid rgb(153, 7, 206);
     padding-top: 10px;
     padding-bottom: 10px;
      margin: 20px;
-     font-weight: 700;
+     margin-left: 370px;
+
      box-shadow: 10px 5px 5px rgb(187, 34, 226);
-     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     font-family:  'Poppins', sans-serif;
      border-radius: 4px;
+      width: 350px;
+    height: 40px;
+    display: inline-block;
 }
 
 .observations-input{
-    border: 3px solid purple;
+    outline: none;
+    border: 4px solid rgb(153, 7, 206);;
     box-shadow: 10px 5px 5px rgb(187, 34, 226);
     margin: 20px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family:  'Poppins', sans-serif;
     border-radius: 4px;
+     width: 350px;
+    height: 40px;
+     margin-left: 370px;
+    display: inline-block;
 }
 
-.priorities-input{
-       border: 3px solid purple;
-    box-shadow: 10px 5px 5px rgb(187, 34, 226);
-    margin: 20px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    border-radius: 4px;
-    
+
+
+/*#observations-input{
+     outline: none;
+   margin-left: 30px;
+   width: 250px;
+   height: 40px;
+   writing-mode: horizontal-tb !important;
+    font-style:normal;
+    font-variant-ligatures: oblique ;
+    font-variant-caps: 3 ;
+    font-variant-numeric: 3;
+    font-variant-east-asian:proportional-width ;
+    font-weight: 700;
+    font-stretch: narrower;
+    text-rendering: auto;
+    color: red;
+    letter-spacing: normal;
+    word-spacing: normal;
+    padding: 3px 6px;
 }
+
+#todo_list__token{
+     outline: none;
+   margin-left: 30px;
+   width: 250px;
+   height: 40px;
+}*/
+
+/*.priorities-input{
+    outline: none;
+    border: 4px solid rgb(153, 7, 206);
+   box-shadow: 10px 5px 5px rgb(187, 34, 226);
+    margin: 20px;
+    font-family:  'Poppins', sans-serif;
+    border-radius: 4px;
+    width: 250px;
+    height: 40px;
+    margin-left: 60px;
+}*/
+
 
 
 
 
 .btn{
-    color:rgb(236, 7, 167);
+    color: rgb(153, 7, 206);
     font-weight: 900;
     border: 3px solid purple; 
     width: 110px;
      height: 40px;
      margin: 20px;
-     margin-left: 100px;
+     margin-left: 530px;
      justify-content: center;
     box-shadow: 10px 5px 5px rgb(187, 34, 226);
     border-radius: 2px;
+    font-family:  'Poppins', sans-serif;
      
 }
 
