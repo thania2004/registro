@@ -17,10 +17,19 @@ class TodoListType extends AbstractType
             ->add('Asignatura', TextType::class, [
                 'attr' => ['class' => 'materia'],
             ])
-            ->add('Turno')
-            ->add('Tiempo')
-            ->add('Observarciones')
-            ->add('Prioridades')
+            ->add('Turno', TextType::class,[
+                'attr' => ['class' => 'turn']
+            ])
+            ->add('Tiempo' , DatetimeType::class, [
+                'attr' => ['class' => 'horario']
+            ])
+            ->add('Observarciones', TextType::class,[
+                'attr' => ['class' => 'observations-input']
+            ])
+
+            ->add('Prioridades', TextType::class, [
+                'attr' => ['class' => 'priorities-input']
+            ])
         ;
     }
 
