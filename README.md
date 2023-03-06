@@ -77,7 +77,7 @@
   <li>PHP</li>
   <li>Composer</li>
 </ul>
-  <div>
+  </div>
 
 <div width="600" height="400"style="display:flex; position:absolute; margin-left:350">
 <img style="display: block" align="center"  height="60" width="120" alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
