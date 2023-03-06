@@ -13,7 +13,8 @@
                 <th>Turno</th>
                 <th>Tiempo</th>
                 <th>Observarciones</th>
-                <th>actions</th>
+                <th>Prioridades</th>
+                <th>Actions</th>
             </tr>
         </thead>
         <tbody>
@@ -24,6 +25,8 @@
                 <td>{{ todo_list.Turno }}</td>
                 <td>{{ todo_list.Tiempo ? todo_list.Tiempo|date('Y-m-d H:i:s') : '' }}</td>
                 <td>{{ todo_list.Observarciones }}</td>
+                <td>{{ todo_list.Prioridades }}</td>
+
                 <td>
                     <a href="{{ path('app_todo_list_show', {'id': todo_list.id}) }}">show</a>
                     <a href="{{ path('app_todo_list_edit', {'id': todo_list.id}) }}">edit</a>
