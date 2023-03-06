@@ -66,7 +66,7 @@
 <h2>Stack 🛠️⚙️</h2>
 <ul>
   <li>Visual Studio Code</li>
-  <li>Bootstrap</li><img align="center"  height="30" width="40" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <li>Bootstrap</li><img style="display: block" align="center"  height="60" width="120" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <li>Xammp</li>
   <li>Symfony</li>
   <li>PhpMyAdmin</li>
