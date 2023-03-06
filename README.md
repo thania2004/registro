@@ -47,9 +47,9 @@
 
 <br>
 <h3>🏅 Test Initialization🏅 </h3>
-  <ul>
-  <li> php bin/phpunit</li>
-</ul>
+``` 
+   php bin/phpunit
+```
 <br>
 <h2> ⚖️Requirements (StakeHolders)🔬</h2>
 <ul>
