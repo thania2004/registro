@@ -47,9 +47,14 @@
 
 <br>
 <h3>🏅 Test Initialization🏅 </h3>
-``` 
-   php bin/phpunit
+
 ```
+function test() {
+  console.log(" php bin/phpunit");
+}
+```
+   
+
 <br>
 <h2> ⚖️Requirements (StakeHolders)🔬</h2>
 <ul>
