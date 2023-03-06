@@ -64,7 +64,7 @@
 </ul>
 <br>
 <h2>Stack 🛠️⚙️</h2>
-<div width="500" height="400"style="display:flex" style="margin:50>
+<div width="500" height="400"style="display:flex" style="margin:20>
 <img style="display: flex-wrap" align="center"  height="60" width="120" alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 <img style="display: flex-wrap" align="center"  height="60" width="120" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img style="display: flex-wrap" align="center"  height="60" width="120" alt="XAMMP" src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white"/>
