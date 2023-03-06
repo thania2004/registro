@@ -49,9 +49,8 @@
 <h3>🏅 Test Initialization🏅 </h3>
 
 ```
-function test() {
-  console.log(" php bin/phpunit");
-}
+php bin/phpunit
+
 ```
    
 
