@@ -16,46 +16,63 @@
 
 
 <h3>Installing symfony packages⚗️</h3>
+
 ```
 composer require symfony/orm-pack (Sin docker)
 
 ```
 
-
 ```
 composer require symfony/maker-bundle
+
 ```
 
 ```
-function test() {
-  console.log("notice the blank line before this function?");
-}
+composer require form validator twig-bundle security-csrf annotations
+
 ```
 
-
-<ul>
-  <li>composer require symfony/orm-pack (Sin docker)</li>
-  <li>composer require symfony/maker-bundle</li>
-  <li>composer require form validator twig-bundle security-csrf annotations</li>
-</ul>
 <br>
 <h3>Installation Test packages ⚗️</h3>
-<ul>
-  <li>composer require --dev symfony/test-pack</li>
-  <li>composer require symfony/panther --dev</li>
-  <li>composer require --dev dbrekelmans/bdi</li>
-</ul>
+
+```
+composer require --dev symfony/test-pack
+
+```
+
+```
+composer require symfony/panther --dev
+
+```
+
+```
+composer require --dev dbrekelmans/bdi
+
+```
 <br>
 <h3>CSS package initialization ⚗️ </h3>
-  <ul>
-  <li>composer require symfony/asset</li>
-</ul>
+
+```
+composer require symfony/asset
+
+```
 <br>
 <h2>✨🚀 Application Initialization✨✨</h2>
-  <ul>
-  <li>symfony server:start</li>
-</ul>
-<p>Add the following extension to the URL that will appear by default: /todo/list</p>
+
+```
+symfony server:start
+
+```
+
+<p>Add the following extension to the URL that will appear by default: </p>
+
+
+```
+/todo/list
+
+```
+
+
 <p>After adding the extension to the URL that comes by default, the following will appear:</p>
 
 <img  width="895" alt="aplicación-registro" src="https://github.com/thania2004/images-github/blob/acc07c5600d567a45b8f8a3e4056b78fd8193ea0/aplicaci%C3%B3n-registro.png">
@@ -99,11 +116,7 @@ php bin/phpunit
 </div>
 <br>
 
-```
-function test() {
-  console.log("notice the blank line before this function?");
-}
-```
+
 
 
 <h2>Registry Project Applications</h2>
