@@ -48,14 +48,14 @@
 <br>
 <h2> ⚖️Requirements (StakeHolders)🔬</h2>
 <ul>
-  <li>Solo se pide funcional código</li>
+  <li>Make it a functional form</li>
   <li>Clean code</li>
   <li>Sólo se va a presentar el código no es necesario una presentación</li>
-  <li>Por lo menos tener un entorno en local operativo (Podéis trabajar las dos en una máquina como hacen en programación por pares o programación extrema)</li>
-  <li>Crear un mínimo de una entidad en Symfony con su controlador, formulario, repositorio, etc.</li>
-  <li>Crear dos entidades que estén relacionadas de alguna manera</li>
+  <li>At least have an operating local environment </li>
+  <li>Create a minimum of one entity in symfony with your controller, form, repository, etc</li>
+  <li>Create two entities that are related in some way</li>
   <li>Que los archivos css y js estén minificados y ofuscados</li>
-  <li>EXTRA: Que tenga test</li>
+  <li>Perform unit tests</li>
 </ul>
 <br>
 <h2>Stack 🛠️⚙️</h2>
