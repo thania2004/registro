@@ -76,6 +76,8 @@
   <li>PHP</li>
   <li>Composer</li>
 </ul>
+
+![image]({https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white})
 <img style="display: block" align="center"  height="60" width="120" alt="VSCode" src="{https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white}"/>
 <img style="display: block" align="center"  height="60" width="120" alt="Bootstrap" src="{https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white}"/>
 <img style="display: block" align="center"  height="60" width="120" alt="PHP" src="{https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white}"/>
