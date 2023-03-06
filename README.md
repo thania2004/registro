@@ -79,7 +79,7 @@
 </ul>
   <div>
 
-<div width="600" height="400"style="display:flex">
+<div width="600" height="400"style="display:flex; position:absolute; margin-left:350">
 <img style="display: block" align="center"  height="60" width="120" alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 <img style="display: block" align="center"  height="60" width="120" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img style="display: block" align="center"  height="60" width="120" alt="XAMMP" src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white"/>
