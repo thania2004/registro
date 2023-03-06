@@ -78,6 +78,11 @@
 </div>
 <br>
 
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
 
 
 <h2>Registry Project Applications</h2>
