@@ -1,7 +1,7 @@
-<h1>PROYECTO REGISTRO 🥇</h1>
-<p>Formulario desarrollado desde la parte de backend, a petición de Factoría F5, que permite la creación de listas de tareas. Orientado a la educación, permite seleccionar asignatura, tiempo, turno, observaciones, en caso sean necesarias, y a su vez se ordena dependiendo la prioridad de la tarea a realizar. </p>
+<h1>PROJECT REGISTRATION 🥇</h1>
+<p>Form developed from the backend part, at the request of Factoría F5, which allows the creation of task lists. Oriented to education, it allows selecting subject, time, shift, observations, if necessary, and in turn is ordered depending on the priority of the task to be carried out. </p>
 <br>
-<h2>Requerimientos de instalación ⚗️🧪</h2>
+<h2>Installation requirements ⚗️🧪</h2>
 <ul>
   <li>Symfony CLI: https://symfony.com/download</li>
   <li>PHP: PHP 8.2.3 (cli). Por ejemplo se puede descargar en OSX con: https://formulae.brew.sh/formula/php</li>
@@ -9,46 +9,47 @@
   <li>Composer: https://getcomposer.org/download/</li>
 </ul>
 <br>
-<h2>Proceso de Instalación 💻</h2>
-<h3>Instalación de paquetes Symfony⚗️</h3>
+<h2>Installation process 💻</h2>
+<h3>Installing symfony packages⚗️</h3>
 <ul>
   <li>composer require symfony/orm-pack (Sin docker)</li>
   <li>composer require symfony/maker-bundle</li>
   <li>composer require form validator twig-bundle security-csrf annotations</li>
 </ul>
 <br>
-<h3>Instalación Test paquetes ⚗️</h3>
+<h3>Installation Test packages ⚗️</h3>
 <ul>
   <li>composer require --dev symfony/test-pack</li>
   <li>composer require symfony/panther --dev</li>
   <li>composer require --dev dbrekelmans/bdi</li>
 </ul>
 <br>
-<h3>Inicialización paquete CSS ⚗️ </h3>
+<h3>CSS package initialization ⚗️ </h3>
   <ul>
   <li>composer require symfony/asset</li>
 </ul>
 <br>
-<h2>✨🚀 Inicialización de Aplicación ✨✨</h2>
+<h2>✨🚀 Application Initialization✨✨</h2>
   <ul>
   <li>symfony server:start</li>
 </ul>
-<p>A la URL que aparecerá por defecto agregarle la siguiente extensión: /todo/list</p>
-<p>Después de agregar la extensión a la URL que  viene por  defecto te aparecera lo siguiente: </p>
+<p>Add the following extension to the URL that will appear by default: /todo/list</p>
+<p>After adding the extension to the URL that comes by default, the following will appear:</p>
 
 <img  width="895" alt="aplicación-registro" src="https://github.com/thania2004/images-github/blob/acc07c5600d567a45b8f8a3e4056b78fd8193ea0/aplicaci%C3%B3n-registro.png">
 
 
 
 <br>
-<h3>🏅 Inicialización de Test🏅 </h3>
+<h3>🏅 Test Initialization🏅 </h3>
   <ul>
   <li> php bin/phpunit</li>
 </ul>
 <br>
-<h2> ⚖️ Requisitos (StakeHolders)🔬</h2>
+<h2> ⚖️Requirements (StakeHolders)🔬</h2>
 <ul>
-  <li>Solo se pide funcional y código</li>
+  <li>Solo se pide funcional código</li>
+  <li>Clean code</li>
   <li>Sólo se va a presentar el código no es necesario una presentación</li>
   <li>Por lo menos tener un entorno en local operativo (Podéis trabajar las dos en una máquina como hacen en programación por pares o programación extrema)</li>
   <li>Crear un mínimo de una entidad en Symfony con su controlador, formulario, repositorio, etc.</li>
@@ -70,16 +71,21 @@
   <li>Composer</li>
 </ul>
 <br>
-<h2>Aplicaciones del Proyecto Registro</h2>
+<h2>Registry Project Applications</h2>
 <ul>
-  <li>Entornos personales: los usuarios pueden utilizar la aplicación para crear y gestionar sus propias listas de tareas para su vida cotidiana, como hacer la compra, pagar facturas, recordatorios de citas, entre otros.</li>
-  <li>Entornos profesionales: la aplicación puede ser utilizada por equipos de trabajo para gestionar tareas y proyectos. Los miembros del equipo pueden crear y asignar tareas, establecer plazos y prioridades, y hacer seguimiento de las tareas completadas.</li>
-  <li>Entornos educativos: los estudiantes pueden utilizar la aplicación para hacer seguimiento de sus tareas y trabajos asignados por sus profesores, así como para gestionar su tiempo y prioridades.</li>
-  <li>Entornos de proyectos: la aplicación puede ser utilizada para gestionar tareas y proyectos específicos, como la planificación de eventos, la gestión de proyectos de construcción, el seguimiento de las actividades de investigación, entre otros.</li>
+  <li>Personal environments: Users can use the application to create and manage their own to-do lists for their daily lives, such as shopping, paying bills, appointment reminders, and more.</li>
+  <li>Professional environments: the application can be used by work teams to manage tasks and projects. Team members can create and assign tasks, set deadlines and priorities, and track completed tasks.</li>
+  <li>Educational environments: Students can use the application to keep track of their homework and work assigned by their teachers, as well as to manage their time and priorities.</li>
+  <li>Project environments: the application can be used to manage specific tasks and projects, such as event planning, construction project management, monitoring of research activities, among others.</li>
 </ul>
-<h2>Mejoras a Largo Plazo</h2>
+<h2>Long Term Improvements🤝❤️  </h2>
 <ul>
-  <li>Se tiene pensado cambiar el campo de asignatura por un radio button que permita al usuario cambiar de interfaz, dependiendo de el entorno en el que se encuentre (personal, profesional, educativo)</li>
+  <li>It is planned to change the subject field by a radio button that allows the user to change the interface, depending on the environment in which they are (personal, professional, educational).</li>
+</ul>
+<h2>Autores ✍️ </h2>
+<ul>
+<li>@k</li>
+<li></li>
 </ul>
 
 
