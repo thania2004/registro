@@ -82,6 +82,9 @@
 <img style="display: block" align="center"  height="60" width="120" alt="Composer" src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white">
 
 <br>
+
+<h2>Programming Languages</h2>
+
 <h2>Registry Project Applications</h2>
 <ul>
   <li>Personal environments: Users can use the application to create and manage their own to-do lists for their daily lives, such as shopping, paying bills, appointment reminders, and more.</li>
