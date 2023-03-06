@@ -1,7 +1,7 @@
-<h1>PROYECTO REGISTRO</h1>
+<h1>PROYECTO REGISTRO 🥇</h1>
 <p>Formulario desarrollado desde la parte de backend, a petición de Factoría F5, que permite la creación de listas de tareas. Orientado a la educación, permite seleccionar asignatura, tiempo, turno, observaciones, en caso sean necesarias, y a su vez se ordena dependiendo la prioridad de la tarea a realizar. </p>
 <br>
-<h2>Requerimientos de instalación</h2>
+<h2>Requerimientos de instalación ⚗️ </h2>
 <ul>
   <li>Symfony CLI: https://symfony.com/download</li>
   <li>PHP: PHP 8.2.3 (cli). Por ejemplo se puede descargar en OSX con: https://formulae.brew.sh/formula/php</li>
@@ -9,27 +9,27 @@
   <li>Composer: https://getcomposer.org/download/</li>
 </ul>
 <br>
-<h2>Proceso de Instalación</h2>
-<h3>Instalación de paquetes Symfony</h3>
+<h2>Proceso de Instalación 💻</h2>
+<h3>Instalación de paquetes Symfony⚗️</h3>
 <ul>
   <li>composer require symfony/orm-pack (Sin docker)</li>
   <li>composer require symfony/maker-bundle</li>
   <li>composer require form validator twig-bundle security-csrf annotations</li>
 </ul>
 <br>
-<h3>Instalación Test paquetes</h3>
+<h3>Instalación Test paquetes ⚗️</h3>
 <ul>
   <li>composer require --dev symfony/test-pack</li>
   <li>composer require symfony/panther --dev</li>
   <li>composer require --dev dbrekelmans/bdi</li>
 </ul>
 <br>
-<h3>Inicialización paquete CSS</h3>
+<h3>Inicialización paquete CSS ⚗️ </h3>
   <ul>
   <li>composer require symfony/asset</li>
 </ul>
 <br>
-<h3>Inicialización de Aplicación</h3>
+<h3>Inicialización de Aplicación </h3>
   <ul>
   <li>symfony server:start</li>
 </ul>
@@ -57,7 +57,7 @@
   <li>EXTRA: Que tenga test</li>
 </ul>
 <br>
-<h2>Stack</h2>
+<h2>Stack 🛠️⚙️</h2>
 <ul>
   <li>Visual Studio Code</li>
   <li>Xammp</li>
