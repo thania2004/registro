@@ -64,7 +64,7 @@
 </ul>
 <br>
 <h2>Stack 🛠️⚙️</h2>
-<div width="300" height="400"style="display:flex">
+<div width="300" height="400"style="display:flex, margin-right:600">
 <ul>
   <li>Visual Studio Code</li>
   <li>Bootstrap</li>
