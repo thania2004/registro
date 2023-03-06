@@ -10,6 +10,11 @@
 </ul>
 <br>
 <h2>Installation process 💻</h2>
+
+<h3>Download our  repo</h3>
+<p>Git clone: https://github.com/thania2004/registro.git</p>
+
+
 <h3>Installing symfony packages⚗️</h3>
 <ul>
   <li>composer require symfony/orm-pack (Sin docker)</li>
@@ -50,17 +55,17 @@
 <ul>
   <li>Make it a functional form</li>
   <li>Clean code</li>
-  <li>Sólo se va a presentar el código no es necesario una presentación</li>
+  <li>follow agile methodologies</li>
   <li>At least have an operating local environment </li>
   <li>Create a minimum of one entity in symfony with your controller, form, repository, etc</li>
   <li>Create two entities that are related in some way</li>
-  <li>Que los archivos css y js estén minificados y ofuscados</li>
+  <li>That the css and js files are minified and obfuscated</li>
   <li>Perform unit tests</li>
 </ul>
 <br>
 <h2>Stack 🛠️⚙️</h2>
 <ul>
-  <li>Visual Studio Code</li>
+  <li>Visual Studio Code</li>  
   <li>Xammp</li>
   <li>Symfony</li>
   <li>PhpMyAdmin</li>
