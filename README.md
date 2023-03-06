@@ -1,7 +1,7 @@
 <h1>PROYECTO REGISTRO 🥇</h1>
 <p>Formulario desarrollado desde la parte de backend, a petición de Factoría F5, que permite la creación de listas de tareas. Orientado a la educación, permite seleccionar asignatura, tiempo, turno, observaciones, en caso sean necesarias, y a su vez se ordena dependiendo la prioridad de la tarea a realizar. </p>
 <br>
-<h2>Requerimientos de instalación ⚗️ </h2>
+<h2>Requerimientos de instalación ⚗️🧪</h2>
 <ul>
   <li>Symfony CLI: https://symfony.com/download</li>
   <li>PHP: PHP 8.2.3 (cli). Por ejemplo se puede descargar en OSX con: https://formulae.brew.sh/formula/php</li>
@@ -29,7 +29,7 @@
   <li>composer require symfony/asset</li>
 </ul>
 <br>
-<h3>Inicialización de Aplicación </h3>
+<h2>✨🚀 Inicialización de Aplicación ✨✨</h2>
   <ul>
   <li>symfony server:start</li>
 </ul>
@@ -41,12 +41,12 @@
 
 
 <br>
-<h3>Inicialización de Test</h3>
+<h3>🏅 Inicialización de Test🏅 </h3>
   <ul>
   <li> php bin/phpunit</li>
 </ul>
 <br>
-<h2>Requisitos (StakeHolders)</h2>
+<h2> ⚖️ Requisitos (StakeHolders)🔬</h2>
 <ul>
   <li>Solo se pide funcional y código</li>
   <li>Sólo se va a presentar el código no es necesario una presentación</li>
