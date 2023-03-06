@@ -12,7 +12,14 @@
 <h2>Installation process 💻</h2>
 
 <h3>Download our  repo</h3>
-<p>Git clone: https://github.com/thania2004/registro.git</p>
+
+
+```
+git clone: https://github.com/thania2004/registro.git
+
+```
+
+
 
 
 <h3>Installing symfony packages⚗️</h3>
