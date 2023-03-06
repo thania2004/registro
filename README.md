@@ -34,7 +34,12 @@
   <li>symfony server:start</li>
 </ul>
 <p>A la URL que aparecerá por defecto agregarle la siguiente extensión: /todo/list</p>
-<img align="center" alt="Aplicación- Registro"  height="400"  width="300" src="">
+<p>Después de agregar la extensión a la URL que  viene por  defecto te aparecera lo siguiente: </p>
+
+<img  width="895" alt="aplicación-registro" src="https://github.com/thania2004/images-github/blob/acc07c5600d567a45b8f8a3e4056b78fd8193ea0/aplicaci%C3%B3n-registro.png">
+
+
+
 <br>
 <h3>Inicialización de Test</h3>
   <ul>
