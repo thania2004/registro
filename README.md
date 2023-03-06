@@ -16,6 +16,23 @@
 
 
 <h3>Installing symfony packages⚗️</h3>
+```
+composer require symfony/orm-pack (Sin docker)
+
+```
+
+
+```
+composer require symfony/maker-bundle
+```
+
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
+
+
 <ul>
   <li>composer require symfony/orm-pack (Sin docker)</li>
   <li>composer require symfony/maker-bundle</li>
