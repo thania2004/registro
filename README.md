@@ -89,8 +89,8 @@
 </ul>
 <h2>Autores ✍️ </h2>
 <ul>
-<li>@k</li>
-<li></li>
+<li>@kiaramm10</li>
+<li>@thania2004</li>
 </ul>
 
 
