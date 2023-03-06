@@ -78,7 +78,7 @@
 </div>
 <br>
 
-<h2>Programming Languages</h2>
+
 
 <h2>Registry Project Applications</h2>
 <ul>
