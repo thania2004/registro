@@ -66,7 +66,7 @@
 <h2>Stack 🛠️⚙️</h2>
 <ul>
   <li>Visual Studio Code</li>
-  <li>Bootstrap</li><img style="display: block" align="center"  height="60" width="120" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <li>Bootstrap</li>
   <li>Xammp</li>
   <li>Symfony</li>
   <li>PhpMyAdmin</li>
@@ -76,6 +76,11 @@
   <li>PHP</li>
   <li>Composer</li>
 </ul>
+<img style="display: block" align="center"  height="60" width="120" alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+<img style="display: block" align="center"  height="60" width="120" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+<img style="display: block" align="center"  height="60" width="120" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+<img style="display: block" align="center"  height="60" width="120" alt="Composer" src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white">
+
 <br>
 <h2>Registry Project Applications</h2>
 <ul>
